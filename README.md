@@ -1,2 +1,2 @@
-"# PowerAI_tutorials" 
+# PowerAI_tutorials
 1. Snapml tutorial
